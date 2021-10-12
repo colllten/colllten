@@ -27,6 +27,11 @@ I moved around a lot before college, allowing me to meet countless valuable peop
 ### Find a Boiler (Java)
 Tasked with developing a social media web app for my final project in Spring 2021, "Find a Boiler" came to fruition. Built alongside four others, we created a concurrent app that incorporates Java networking and Swing GUIs.
 
+### Future Project Ideas
+* Fantasy football app for my friends and me to use every NFL season. This will use a web scraper and probably another SQL database
+* Some sort of music social media app to let others know what you listen to, and recommend others your music tastes
+* I would like to make a personal website to display my accomplishments and also maintain (at minimum) a weekly blog of what I learned that week at Purdue, my song of the week, and other interesting information for documentation's sake
+
 ---
 
 ## Interests
@@ -40,3 +45,14 @@ Tasked with developing a social media web app for my final project in Spring 202
         * Drake
         * J Cole
         * Kota the Friend
+
+
+* Games
+    * Madden
+    * NBA 2K
+    * Pokemon
+    * Need for Speed
+    * Minecraft
+
+* Reading
+* Thinking of outlandish coding projects
