@@ -40,19 +40,10 @@ Tasked with developing a social media web app for my final project in Spring 202
     * R&B
         * Childish Gambino
         * Daniel Caesar
-    * Hip Hop
-        * Kanye West
-        * Drake
-        * J Cole
-        * Kota the Friend
 
 
 * Games
     * Madden
     * NBA 2K
-    * Pokemon
-    * Need for Speed
-    * Minecraft
 
 * Reading
-* Thinking of outlandish coding projects
