@@ -4,15 +4,16 @@
 
 ### College
 * Purdue University
-    * Computer Science with concentration in software engineering
-    * Graduation expected May 2024
+    * Major: Computer Information Technology -- Network Engineering
+    * Minor: Computer Science (Interest in Software Engineering)
+    * Minor: Economics
 
 ### High School
 
 * Covington High School
 * Connersville High School
 
-I moved around a lot before college, allowing me to meet countless valuable people and be impacted by their experiences. I've moved 10+ times in the 20 years I have been alive!
+I moved around a lot before college, allowing me to meet countless valuable people and be impacted by their experiences. I've moved 10+ times in the 21 years I have been alive!
 
 ---
 
@@ -29,8 +30,6 @@ Tasked with developing a social media web app for my final project in Spring 202
 
 ### Future Project Ideas
 * Fantasy football app for my friends and me to use every NFL season. This will use a web scraper and probably another SQL database
-* Some sort of music social media app to let others know what you listen to, and recommend others your music tastes
-* I would like to make a personal website to display my accomplishments and also maintain (at minimum) a weekly blog of what I learned that week at Purdue, my song of the week, and other interesting information for documentation's sake
 
 ---
 
@@ -40,6 +39,7 @@ Tasked with developing a social media web app for my final project in Spring 202
     * R&B
         * Childish Gambino
         * Daniel Caesar
+        * Frank Ocean
 
 
 * Games
