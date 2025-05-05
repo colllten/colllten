@@ -4,8 +4,8 @@
 
 ### College
 * Purdue University
-    * Major: Computer Information Technology - Cybersecurity
-    * Minor: Computer Science (Interest in Software Engineering)
+    * Major: Computer & Information Technology
+    * Minors: Computer Science & Organizational Leadership
 
 ---
 
